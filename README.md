@@ -2,4 +2,4 @@
 
 ## Description
 Python concepts from basic to advance.
-Updating after completing some cool projects.
+Updating after completing some other projects.
