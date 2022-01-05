@@ -1,4 +1,4 @@
-# python-basic_advance
+# python_atoz
 
 ## Description
 Python concepts from basic to advance.
